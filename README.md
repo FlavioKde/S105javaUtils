@@ -37,7 +37,7 @@ This project involves handling directories, reading files, serializing objects, 
 1️⃣ Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/FlavioKde/S105javaUtils.git>
 2️⃣ Navigate to the project directory:
 
 bash
