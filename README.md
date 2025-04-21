@@ -1,112 +1,179 @@
-📂 Java File Management & Encryption - README
-📄 Project Description
-This project involves handling directories, reading files, serializing objects, and encrypting files using AES encryption. It follows structured levels of execution with increasing complexity.
+# 📂 JAVA FILE MANAGEMENT & ENCRYPTION
 
-🔹 Key Features:
-✔ List directory contents alphabetically ✔ Recursively scan directory trees ✔ Store file information in a TXT file ✔ Read TXT file contents and display them ✔ Serialize and deserialize Java objects ✔ Encrypt and decrypt files using AES encryption
+## 📄 PROJECT DESCRIPTION
 
-💻 Technologies Used
-✔ Java 17+ ✔ Apache Commons Configuration (optional) ✔ Java Properties files for configuration ✔ Java Crypto APIs (javax.crypto, org.apache.commons.crypto)
+This project involves handling directories, reading files, serializing objects, and encrypting/decrypting files using the AES encryption algorithm. It is structured in progressive levels of complexity.
 
-📋 Requirements
-✔ Eclipse or IntelliJ for development ✔ Relative paths instead of absolute paths ✔ Use File.separator for compatibility across operating systems
+### 🔹 KEY FEATURES
 
-🛠️ Installation & Setup
+- ✔ List directory contents alphabetically  
+- ✔ Recursively scan directory trees  
+- ✔ Save file information to a `.txt` file  
+- ✔ Read and display `.txt` file contents  
+- ✔ Serialize and deserialize Java objects  
+- ✔ Encrypt and decrypt files using AES  
+
+---
+
+## 💻 TECHNOLOGIES USED
+
+- ✔ Java 17 or higher  
+- ✔ Apache Commons Configuration (optional)  
+- ✔ Java Properties files for configuration  
+- ✔ Java Crypto APIs (`javax.crypto`, `org.apache.commons.crypto`)  
+
+---
+
+## 📋 REQUIREMENTS
+
+- ✔ Eclipse, IntelliJ, or any compatible Java IDE  
+- ✔ Use **relative paths** instead of absolute paths  
+- ✔ Use `File.separator` for cross-platform compatibility  
+
+---
+
+## 🛠️ INSTALLATION & SETUP
+
 1️⃣ Clone the repository:
-bash
+
+```bash
 git clone <repository-url>
 2️⃣ Navigate to the project directory:
+
 bash
+Copiar
+Editar
 cd Java-File-Management
-3️⃣ Ensure the correct directory structure:
-text
+3️⃣ Ensure the directory structure is correct:
+
+css
+Copiar
+Editar
 src/main/java/
 src/main/resources/
 target/classes/
 4️⃣ Install dependencies (if using Maven or Gradle):
+
 bash
+Copiar
+Editar
+# Using Maven
 mvn install
-# OR
-gradle build
-▶️ Execution Instructions
-Each exercise corresponds to a different level. Execute them as described below:
 
-🔹 Level 1: File & Directory Operations
-✔ List a directory alphabetically:
+# OR using Gradle
+gradle build
+▶️ EXECUTION INSTRUCTIONS
+🔹 LEVEL 1: FILE & DIRECTORY OPERATIONS
+✔ List directory contents alphabetically:
 
 bash
+Copiar
+Editar
 java -cp target/classes level1.exercise1.mainManager.MainDirectory "relative/path/to/directory"
 ✔ Recursively list directory tree:
 
 bash
+Copiar
+Editar
 java -cp target/classes level1.exercise2.mainManager.MainTreeDirectory "relative/path/to/directory"
-✔ Save directory listing to TXT file:
+✔ Save directory listing to a .txt file:
 
 bash
+Copiar
+Editar
 java -cp target/classes level1.exercise3.mainManager.MainSaveDirectory "relative/path/to/directory"
-✔ Read and display a TXT file's contents:
+✔ Read and display a .txt file:
 
 bash
+Copiar
+Editar
 java -cp target/classes level1.exercise4.mainManager.MainReadTxt "relative/path/to/file.txt"
 ✔ Serialize and deserialize a Java object:
 
 bash
+Copiar
+Editar
 java -cp target/classes level1.exercise5.mainManager.MainSerialization
-🔹 Level 2: Configuration-Based Execution
-✔ Execute file listing using a configuration file:
+🔹 LEVEL 2: CONFIGURATION-BASED EXECUTION
+✔ Execute using a .properties config file:
 
 bash
+Copiar
+Editar
 java -cp target/classes level2.exercise1.mainManager.MainConfig "config.properties"
 ✔ Sample config.properties file:
 
-text
+ini
+Copiar
+Editar
 directory.to.read=src/main/java
 output.file.name=directoryList.txt
 output.file.directory=src/main/java/level2/exercise1/txt
-🔹 Level 3: File Encryption & Decryption
-✔ Encrypt a file using AES encryption:
+🔹 LEVEL 3: FILE ENCRYPTION & DECRYPTION
+✔ Encrypt and decrypt a file using AES encryption:
 
 bash
+Copiar
+Editar
 java -cp target/classes level3.exercise1.mainManager.MainEncryptDecrypt
-✔ Ensure files exist before execution:
+✔ Ensure input files exist before execution:
 
-text
+bash
+Copiar
+Editar
 src/main/java/level2/exercise1/txt/readme.txt
-✔ Generated encrypted & decrypted files:
+✔ Output files generated:
 
-text
+python
+Copiar
+Editar
 archivo_encrypted.aes
 archivo_decrypted.txt
 key.bin
 iv.bin
-🌐 Deployment
-✔ Prepare the environment before execution ✔ Ensure necessary files exist in the expected paths ✔ Keep encryption keys securely stored
+🌐 DEPLOYMENT
+✔ Prepare your environment before running
 
-🤝 Contributions
-Contributions are welcome! Follow these steps to contribute:
+✔ Ensure all input files are present in the correct locations
+
+✔ Store encryption keys securely and never hardcode them
+
+🤝 CONTRIBUTIONS
+Contributions are welcome! Follow these steps:
 
 1️⃣ Fork the repository
 2️⃣ Create a new branch:
+
 bash
+Copiar
+Editar
 git checkout -b feature/NewFunctionality
-3️⃣ Make changes and commit:
+3️⃣ Make your changes and commit them:
+
 bash
+Copiar
+Editar
 git commit -m "Add new functionality"
-4️⃣ Push changes to your branch:
+4️⃣ Push your changes:
+
 bash
+Copiar
+Editar
 git push origin feature/NewFunctionality
 5️⃣ Submit a pull request
-📌 Notes:
-✔ Ensure the input file exists before running encryption ✔ Always test changes before pushing to production ✔ Follow GitHub best practices when submitting contributions
 
-🚀 Happy coding! ✨
+📌 NOTES
+✔ Always ensure the input file exists before encryption
 
+✔ Test your code thoroughly before pushing
 
+✔ Follow GitHub contribution best practices
 
+🚀 HAPPY CODING! ✨
+yaml
+Copiar
+Editar
 
+---
 
-📌 Notes:
-
-✔ Ensure the input file exists before running encryption. ✔ Always test changes before pushing to production. ✔ Follow GitHub best practices when submitting contributions.
-
-🚀 Happy coding! ✨
+Let me know if you want me to generate this as a file you can download directly, or if you'd like 
