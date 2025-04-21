@@ -1,0 +1,124 @@
+[D] level1 - Last Modified: 08-04-2025 12:13:39
+  [D] exercise1 - Last Modified: 09-04-2025 10:33:26
+    [D] dataClass - Last Modified: 09-04-2025 20:46:53
+      [F] ListDirectory.java - Last Modified: 09-04-2025 20:46:53
+    [D] logic - Last Modified: 09-04-2025 22:11:00
+      [F] ArgumentValidator.java - Last Modified: 09-04-2025 22:11:00
+      [F] ManagementDirectory.java - Last Modified: 09-04-2025 21:38:02
+    [D] mainManager - Last Modified: 09-04-2025 22:12:07
+      [F] MainDirectory.java - Last Modified: 09-04-2025 22:12:07
+    [D] txt - Last Modified: 09-04-2025 23:46:51
+      [F] readme.txt - Last Modified: 09-04-2025 23:46:51
+  [D] exercise2 - Last Modified: 10-04-2025 10:41:12
+    [D] dataClass - Last Modified: 10-04-2025 17:44:33
+      [F] ListDirectoryTree.java - Last Modified: 10-04-2025 17:44:33
+    [D] logic - Last Modified: 10-04-2025 18:40:51
+      [F] ArgumentValidatorTree.java - Last Modified: 10-04-2025 10:58:41
+      [F] ManagementDirectoryTree.java - Last Modified: 10-04-2025 17:48:24
+    [D] mainManager - Last Modified: 10-04-2025 17:24:59
+      [F] MainDirectoryTree.java - Last Modified: 10-04-2025 17:24:59
+    [D] txt - Last Modified: 10-04-2025 18:20:06
+      [F] readme.txt - Last Modified: 10-04-2025 18:20:06
+  [D] exercise3 - Last Modified: 10-04-2025 23:24:29
+    [D] dataClass - Last Modified: 10-04-2025 18:29:19
+      [F] ListDirectoryWriteTxt.java - Last Modified: 10-04-2025 18:29:19
+    [D] logic - Last Modified: 10-04-2025 23:20:56
+      [F] ArgumentValidatorWriteTxt.java - Last Modified: 10-04-2025 18:29:19
+      [F] ManagementDirectoryWriteTxt.java - Last Modified: 10-04-2025 23:20:56
+      [F] TxtWriterDirectory.java - Last Modified: 10-04-2025 22:40:34
+    [D] mainManager - Last Modified: 10-04-2025 23:02:34
+      [F] MainDirectoryWriteTxt.java - Last Modified: 10-04-2025 23:07:14
+    [D] txt - Last Modified: 10-04-2025 23:25:02
+      [F] terminalWriter.txt - Last Modified: 10-04-2025 23:25:21
+  [D] exercise4 - Last Modified: 08-04-2025 12:13:30
+The directory is empty
+  [D] exercise5 - Last Modified: 08-04-2025 12:13:39
+The directory is empty
+[D] level2 - Last Modified: 08-04-2025 12:14:21
+  [D] exercise1 - Last Modified: 08-04-2025 12:14:21
+The directory is empty
+[D] level3 - Last Modified: 08-04-2025 12:14:09
+The directory is empty
+[D] org - Last Modified: 08-04-2025 12:10:58
+  [D] example - Last Modified: 08-04-2025 12:10:58
+    [F] Main.java - Last Modified: 08-04-2025 12:10:58
+[D] main - Last Modified: 08-04-2025 12:11:02
+  [D] java - Last Modified: 08-04-2025 12:14:09
+    [D] level1 - Last Modified: 08-04-2025 12:13:39
+      [D] exercise1 - Last Modified: 09-04-2025 10:33:26
+        [D] dataClass - Last Modified: 11-04-2025 12:12:36
+          [F] ListDirectory.java - Last Modified: 11-04-2025 12:12:36
+        [D] logic - Last Modified: 11-04-2025 12:09:34
+          [F] ArgumentValidator.java - Last Modified: 09-04-2025 22:11:00
+          [F] ManagementDirectory.java - Last Modified: 11-04-2025 12:09:34
+        [D] mainManager - Last Modified: 09-04-2025 22:12:07
+          [F] MainDirectory.java - Last Modified: 09-04-2025 22:12:07
+        [D] txt - Last Modified: 09-04-2025 23:46:51
+          [F] readme.txt - Last Modified: 09-04-2025 23:46:51
+      [D] exercise2 - Last Modified: 10-04-2025 10:41:12
+        [D] dataClass - Last Modified: 10-04-2025 17:44:33
+          [F] ListDirectoryTree.java - Last Modified: 10-04-2025 17:44:33
+        [D] logic - Last Modified: 10-04-2025 18:40:51
+          [F] ArgumentValidatorTree.java - Last Modified: 10-04-2025 10:58:41
+          [F] ManagementDirectoryTree.java - Last Modified: 10-04-2025 17:48:24
+        [D] mainManager - Last Modified: 10-04-2025 17:24:59
+          [F] MainDirectoryTree.java - Last Modified: 10-04-2025 17:24:59
+        [D] txt - Last Modified: 10-04-2025 18:20:06
+          [F] readme.txt - Last Modified: 10-04-2025 18:20:06
+      [D] exercise3 - Last Modified: 10-04-2025 23:24:29
+        [D] dataClass - Last Modified: 10-04-2025 18:29:19
+          [F] ListDirectoryWriteTxt.java - Last Modified: 10-04-2025 18:29:19
+        [D] logic - Last Modified: 11-04-2025 22:41:18
+          [F] ArgumentValidatorWriteTxt.java - Last Modified: 10-04-2025 18:29:19
+          [F] ManagementDirectoryWriteTxt.java - Last Modified: 10-04-2025 23:20:56
+          [F] TxtWriterDirectory.java - Last Modified: 10-04-2025 22:40:34
+        [D] mainManager - Last Modified: 10-04-2025 23:02:34
+          [F] MainDirectoryWriteTxt.java - Last Modified: 10-04-2025 23:07:14
+        [D] txt - Last Modified: 10-04-2025 23:36:14
+          [F] readme.txt - Last Modified: 10-04-2025 23:36:14
+          [F] terminalWriter.txt - Last Modified: 10-04-2025 23:25:21
+      [D] exercise4 - Last Modified: 10-04-2025 23:40:44
+        [D] dataClass - Last Modified: 11-04-2025 12:12:29
+          [F] ListDirectoryReadTxt.java - Last Modified: 11-04-2025 12:12:29
+        [D] logic - Last Modified: 11-04-2025 13:55:33
+          [F] ArgumentValidatorReadTxt.java - Last Modified: 10-04-2025 23:51:41
+          [F] ManagementDirectoryReadTxt.java - Last Modified: 11-04-2025 13:55:33
+          [F] TxtReader.java - Last Modified: 11-04-2025 13:54:04
+        [D] mainManager - Last Modified: 11-04-2025 12:36:04
+          [F] MainDirectoryReadTxt.java - Last Modified: 11-04-2025 12:36:04
+        [D] txt - Last Modified: 11-04-2025 14:02:56
+          [F] readme.txt - Last Modified: 11-04-2025 14:02:56
+          [F] readTerminal.txt - Last Modified: 11-04-2025 13:57:55
+      [D] exercise5 - Last Modified: 11-04-2025 20:54:15
+        [D] classData - Last Modified: 11-04-2025 19:10:00
+          [F] Person.java - Last Modified: 11-04-2025 15:38:28
+        [D] mainManager - Last Modified: 11-04-2025 19:10:11
+          [F] DeserializePerson.java - Last Modified: 11-04-2025 16:02:38
+          [F] MainPerson.java - Last Modified: 11-04-2025 15:49:15
+        [D] ser - Last Modified: 11-04-2025 20:53:07
+          [F] person.ser - Last Modified: 11-04-2025 19:13:41
+        [D] txt - Last Modified: 11-04-2025 20:58:16
+          [F] readme.txt - Last Modified: 11-04-2025 20:58:16
+    [D] level2 - Last Modified: 11-04-2025 21:18:11
+      [D] exercise1 - Last Modified: 11-04-2025 21:17:29
+        [D] dataClass - Last Modified: 12-04-2025 14:09:08
+          [F] ListDirectoryWriteTxt.java - Last Modified: 11-04-2025 21:18:33
+        [D] logic - Last Modified: 12-04-2025 14:09:39
+          [F] ConfigLoader.java - Last Modified: 11-04-2025 22:42:06
+          [F] ManagementDirectoryWriteTxt.java - Last Modified: 12-04-2025 00:49:37
+          [F] TxtWriterDirectory.java - Last Modified: 12-04-2025 00:29:56
+        [D] mainManager - Last Modified: 12-04-2025 14:09:48
+          [F] MainDirectoryWriteTxt.java - Last Modified: 12-04-2025 00:28:26
+        [D] txt - Last Modified: 11-04-2025 21:17:29
+          [F] readme.txt - Last Modified: 10-04-2025 23:36:14
+          [F] terminalWriter.txt - Last Modified: 12-04-2025 14:20:02
+    [D] level3 - Last Modified: 08-04-2025 12:14:09
+The directory is empty
+    [D] org - Last Modified: 08-04-2025 12:10:58
+      [D] example - Last Modified: 08-04-2025 12:10:58
+        [F] Main.java - Last Modified: 08-04-2025 12:10:58
+  [D] resources - Last Modified: 11-04-2025 22:11:08
+    [F] config.properties - Last Modified: 11-04-2025 22:11:08
+[D] test - Last Modified: 08-04-2025 12:11:02
+  [D] java - Last Modified: 08-04-2025 12:11:02
+The directory is empty

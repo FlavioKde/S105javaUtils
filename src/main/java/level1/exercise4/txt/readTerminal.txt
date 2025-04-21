@@ -1,0 +1,4 @@
+txt reading tests
+
+Tests the program's ability to search for a txt file in the directory.
+This is passed to the console once the program is compiled. I pass it as args, which is ==0

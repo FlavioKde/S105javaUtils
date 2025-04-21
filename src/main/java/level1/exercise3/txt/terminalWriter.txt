@@ -1,0 +1,44 @@
+[D] level1 - Last Modified: 08-04-2025 12:13:39
+  [D] exercise1 - Last Modified: 09-04-2025 10:33:26
+    [D] dataClass - Last Modified: 09-04-2025 20:46:53
+      [F] ListDirectory.java - Last Modified: 09-04-2025 20:46:53
+    [D] logic - Last Modified: 09-04-2025 22:11:00
+      [F] ArgumentValidator.java - Last Modified: 09-04-2025 22:11:00
+      [F] ManagementDirectory.java - Last Modified: 09-04-2025 21:38:02
+    [D] mainManager - Last Modified: 09-04-2025 22:12:07
+      [F] MainDirectory.java - Last Modified: 09-04-2025 22:12:07
+    [D] txt - Last Modified: 09-04-2025 23:46:51
+      [F] readme.txt - Last Modified: 09-04-2025 23:46:51
+  [D] exercise2 - Last Modified: 10-04-2025 10:41:12
+    [D] dataClass - Last Modified: 10-04-2025 17:44:33
+      [F] ListDirectoryTree.java - Last Modified: 10-04-2025 17:44:33
+    [D] logic - Last Modified: 10-04-2025 18:40:51
+      [F] ArgumentValidatorTree.java - Last Modified: 10-04-2025 10:58:41
+      [F] ManagementDirectoryTree.java - Last Modified: 10-04-2025 17:48:24
+    [D] mainManager - Last Modified: 10-04-2025 17:24:59
+      [F] MainDirectoryTree.java - Last Modified: 10-04-2025 17:24:59
+    [D] txt - Last Modified: 10-04-2025 18:20:06
+      [F] readme.txt - Last Modified: 10-04-2025 18:20:06
+  [D] exercise3 - Last Modified: 10-04-2025 23:24:29
+    [D] dataClass - Last Modified: 10-04-2025 18:29:19
+      [F] ListDirectoryWriteTxt.java - Last Modified: 10-04-2025 18:29:19
+    [D] logic - Last Modified: 10-04-2025 23:20:56
+      [F] ArgumentValidatorWriteTxt.java - Last Modified: 10-04-2025 18:29:19
+      [F] ManagementDirectoryWriteTxt.java - Last Modified: 10-04-2025 23:20:56
+      [F] TxtWriterDirectory.java - Last Modified: 10-04-2025 22:40:34
+    [D] mainManager - Last Modified: 10-04-2025 23:02:34
+      [F] MainDirectoryWriteTxt.java - Last Modified: 10-04-2025 23:07:14
+    [D] txt - Last Modified: 10-04-2025 23:25:02
+      [F] terminalWriter.txt - Last Modified: 10-04-2025 23:25:21
+  [D] exercise4 - Last Modified: 08-04-2025 12:13:30
+The directory is empty
+  [D] exercise5 - Last Modified: 08-04-2025 12:13:39
+The directory is empty
+[D] level2 - Last Modified: 08-04-2025 12:14:21
+  [D] exercise1 - Last Modified: 08-04-2025 12:14:21
+The directory is empty
+[D] level3 - Last Modified: 08-04-2025 12:14:09
+The directory is empty
+[D] org - Last Modified: 08-04-2025 12:10:58
+  [D] example - Last Modified: 08-04-2025 12:10:58
+    [F] Main.java - Last Modified: 08-04-2025 12:10:58
