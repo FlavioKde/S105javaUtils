@@ -170,10 +170,4 @@ git push origin feature/NewFunctionality
 ✔ Follow GitHub contribution best practices
 
 🚀 HAPPY CODING! ✨
-yaml
-Copiar
-Editar
 
----
-
-Let me know if you want me to generate this as a file you can download directly, or if you'd like 
