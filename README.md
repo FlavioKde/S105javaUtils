@@ -20,7 +20,8 @@ This project involves handling directories, reading files, serializing objects, 
 - ✔ Java 17 or higher  
 - ✔ Apache Commons Configuration (optional)  
 - ✔ Java Properties files for configuration  
-- ✔ Java Crypto APIs (`javax.crypto`, `org.apache.commons.crypto`)  
+- ✔ Java Crypto APIs (`javax.crypto`, `org.apache.commons.crypto`)
+- ✔ Maven
 
 ---
 
