@@ -1,6 +1,7 @@
 package level3.exercise1.mainManager;
 
-import level3.exercise1.dataClass.EncryptDecrypt;
+import level3.exercise1.dataClass.Encrypt;
+import level3.exercise1.dataClass.Decrypt;
 
 import java.io.File;
 
@@ -17,11 +18,11 @@ public class MainEncryptDecrypt {
             File ivFile = new File("iv.bin");
 
 
-            EncryptDecrypt.encryptFile(inputFile, encryptedFile, keyFile, ivFile);
+            Encrypt.encryptFile(inputFile, encryptedFile, keyFile, ivFile);
             System.out.println("File successfully encrypted.");
 
 
-            EncryptDecrypt.decryptFile(encryptedFile, decryptedFile, keyFile, ivFile);
+            Decrypt.decryptFile(encryptedFile, decryptedFile, keyFile, ivFile);
             System.out.println("File successfully decrypted.");
 
         } catch (Exception e) {

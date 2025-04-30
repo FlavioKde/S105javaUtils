@@ -10,11 +10,5 @@ public class ListDirectoryWriteTxt {
 
         this.fileList = new File(directoryPath).listFiles();
     }
-
-
-    public File[] getFileList() {
-        return fileList;
-    }
-
 }
 

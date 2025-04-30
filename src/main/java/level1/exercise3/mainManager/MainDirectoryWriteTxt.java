@@ -4,7 +4,7 @@ package level1.exercise3.mainManager;
 
 import level1.exercise3.logic.ArgumentValidatorWriteTxt;
 import level1.exercise3.logic.ManagementDirectoryWriteTxt;
-import level1.exercise3.logic.TxtWriterDirectory;
+
 
 import java.io.File;
 
@@ -21,9 +21,6 @@ public class MainDirectoryWriteTxt {
 
         ManagementDirectoryWriteTxt manager = new ManagementDirectoryWriteTxt(path);
         manager.loadDirectory(rootDirectory,0);
-
-
-
 
 
     }

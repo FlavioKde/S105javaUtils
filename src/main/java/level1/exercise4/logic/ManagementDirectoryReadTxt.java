@@ -1,10 +1,9 @@
 package level1.exercise4.logic;
 
 import level1.exercise4.dataClass.ListDirectoryReadTxt;
-import level1.exercise4.logic.TxtReader;
+
 
 import java.io.File;
-import java.nio.file.Path;
 import java.util.Arrays;
 
 public class ManagementDirectoryReadTxt {

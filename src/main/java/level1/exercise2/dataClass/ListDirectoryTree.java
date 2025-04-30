@@ -11,10 +11,5 @@ public class ListDirectoryTree {
         this.fileList = new File(directoryPath).listFiles();
     }
 
-
-    public File[] getFileList() {
-        return fileList;
-    }
-
 }
 

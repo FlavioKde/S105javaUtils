@@ -12,9 +12,5 @@ public class ListDirectoryWriteTxt {
     }
 
 
-    public File[] getFileList() {
-        return fileList;
-    }
-
 }
 

@@ -18,8 +18,6 @@ public class ManagementDirectory {
 
         String directoryPath = listDirectory.getDirectoryPath();
 
-
-
         File directory = new File(directoryPath);
 
         if (directory.exists() && directory.isDirectory()){

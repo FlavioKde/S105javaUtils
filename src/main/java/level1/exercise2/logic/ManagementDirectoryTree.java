@@ -33,7 +33,7 @@ public class ManagementDirectoryTree {
         Arrays.sort(files);
         for (File file : files) {
 
-                String indent= "  ".repeat(level);
+
 
                 String type = file.isDirectory() ? "[D]" : "[F]";
                 String lastModified = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss").format(file.lastModified());

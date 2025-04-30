@@ -21,7 +21,5 @@ public class MainDirectoryTree {
         manager.loadDirectory(rootDirectory, 0);
 
 
-
-
     }
     }
